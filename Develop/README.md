@@ -5,6 +5,7 @@ Tasking is to build an express.js back end to merge with front end starter code 
 The application’s front end has already been created, so just connect the two and then deploy the entire application to Heroku.
 
 Walk through video: https://drive.google.com/file/d/1Tee0mi-YK_89Rbubs9fsERi9VozTFlcL/view
+
 GitHub repository: https://github.com/sjbossa/MOD11-Challenge-NoteTaker
 
 ![NOTETAKER CRITERIA](https://user-images.githubusercontent.com/122941616/235578179-27982543-72f2-4591-8ee1-09a38982e9b0.png)
